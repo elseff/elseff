@@ -3,6 +3,6 @@
 
 ## Interesting in job offers
 
-<img src="[https://github-readme-stats.vercel.app/api?username=elseff&](https://github-readme-stats.vercel.app/api?username=elseff&)show_icons=true&theme=radical"/>
+<img src="[https://github-readme-stats.vercel.app/api?username=elseff](https://github-readme-stats.vercel.app/api?username=elseff&show_icons=true&theme=radical"/>
 
 
